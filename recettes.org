@@ -1,5 +1,6 @@
 #+OPTIONS: toc:nil num:nil
 * Lasagne
+  - lasagneplate, pasata, kjøttdeig, mel, melk, smør, gulrot, sellerirot
 * Couscous
 * Fiskegrateng
 * Salade nicoise
@@ -25,4 +26,5 @@
   - bulgur (100g), kikerter (400g), tomater (2), gul paprika (1), koriander (30g), dill (20g), kjerner fra 1/2 granateple
   - dressing : olivenolje (30ml), hvitløkfedd (1), jus av én sitron
 * Quiche
-  [[https://www.matprat.no/oppskrifter/gjester/quiche-lorraine/][lenke]]
+  - oeufs (2), creme liquide (30cl), petits pois (150g), lardon (100g)
+  - faire revenir lardon, eliminer gras avec papier, fouetter oeufs avec creme liquide. 30 min 180 degrée.
