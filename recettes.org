@@ -3,9 +3,11 @@
   - lasagneplate, pasata, kjøttdeig, mel, melk, smør, gulrot, sellerirot
 * Couscous
 * Fiskegrateng
+  - matprat [[https://www.matprat.no/oppskrifter/familien/fiskegrateng/][lenke]]
+  - makaroni (75 g), smør (2 ss), hvetemel (3 ss), melk (4 dl), purre (0,25 stk, kan skøyffes), torskefilet eller annen kokt, hvit fisk (400 g), egg (4 stk.), revet hvitost (1 dl, kan sløyfes)
 * Salade nicoise
 * Gryte                                                             :kylling:
-  kylling, koriander, aspargebønner, paprika
+  - kylling, koriander, aspargebønner, paprika
 * Indisk inspirert potetgryte med linser                              :linse:
   side 96
 * Lynrask linsegryte                                                  :linse:
@@ -43,6 +45,8 @@
   - sellirirot, gulrot, squash, kålrot
 * Lasagne med linser
 * Lapskaus
+  - matprat [[https://www.matprat.no/oppskrifter/tradisjon/lapskaus/][lenke]]
+  - benfri høyrygg av storfekjøtt , evt. bog (800 g), vann (10 dl), kjøttbuljongterning (1 stk.), potet i terninger (800 g), gulrot i terninger (3 stk.), kålrot (150 g ), persillerot (150 g ), purre (0,5 stk.)
 * Fiskegrateng
 * Gnocchi
 * Fylte paprika
