@@ -1,4 +1,7 @@
 #+OPTIONS: toc:nil num:nil
+* Rødbetsuppe med gulrot og tomat / Borsj
+  - [[https://mathelsemiljo.com/blog/rodbetsuppe-med-gulrot-og-tomat-borsj][lenke]]
+  - rødbete, (1 stor eller 2 medium ), gulrot (3-4 stk), gul løk (1 stor ), hvitløksfedd (3-4 stk) , rødvinseddik/balsamico (1ss), harissapaste (2 ts, kan sløyfes), kraft (1,5l), hakkede tomater (1 boks), Hvite bønner (ca 230 g ferdigkokte, kan sløyfes), olivenolje, timian / persille / gressløk fersk eller tørket
 * Lasagne
   - lasagneplate, pasata, kjøttdeig, mel, melk, smør, gulrot, sellerirot
 * Couscous
