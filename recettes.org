@@ -9,21 +9,31 @@
 * Couscous
 * Fiskegrateng
   - matprat [[https://www.matprat.no/oppskrifter/familien/fiskegrateng/][lenke]]
-  - makaroni (75 g), smør (2 ss), hvetemel (3 ss), melk (4 dl), purre (0,25 stk, kan skøyffes), torskefilet eller annen kokt, hvit fisk (400 g), egg (4 stk.), revet hvitost (1 dl, kan sløyfes)
+  - makaroni (75 g), smør (2 ss), hvetemel (3 ss), melk (4 dl), purre (0,25 stk, kan skøyffes), torskefilet eller annen
+    kokt, hvit fisk (400 g), egg (4 stk.), revet hvitost (1 dl, kan sløyfes)
 * Salade nicoise
 * Gryte                                                             :kylling:
   - kylling, koriander, aspargebønner, paprika
 * Indisk inspirert potetgryte med linser                              :linse:
-  side 96
+  - løk (1), hvitløk (2), chili (1), poteter (500g), gulrøtter (2), linser (1boks), tomater (1boks), garam masala (1ts),
+    paprika pulver (1ts), gurkemeie (1ts), spisskummen (1ts), hakket frisk koriander eller basilikum (1dl), kaldt vann
+    (2dl)
+  - side 96 kokeboka
 * Lynrask linsegryte                                                  :linse:
-  side 87
+  - gul løk (1), hvitløksfedd (2), rød currypasta (2-4ts), tomater (1 boks), kokosmelk (1 boks), røde linser (2 bokser),
+    frisk spinat (2 never)
+  - topping : yogurt, chiliflak, koriander, tilbehør : nanbrød, pitabrød
+  - side 87 kokeboka
 * Gulrot og linsesuppe                                                :linse:
-  side 28
+  - gulrøtter (4, i terninger, ca 500g), sellerirot (2dl, i terninger), løk (1), hvitløksfedd (3), ingefær (1ss),
+    karripulver (1.5 ts), gurkemeie (0.5 ts), vann eller buljong (10 dl), røde linser (1 dl), lime (0.5)
+  - mos med stavmikser til slutt
+  - side 28
 * Sommersalat
   - Ruccula, jordbær, rødløk, tomat
 * Kyllingsalat
-  - salat, kyllingsfilet, avocado x2, vårløk, sukkererter 100g, tomater, valnøtter
-  - s.17 i kokeboka vår
+  - Salat, kyllingsfilet, avocado x2, vårløk, sukkererter 100g, tomater, valnøtter
+  - s.17 i kokeboka
 * Sommersalat
   - miks forskjellig typer salat, avokado, vårløk, cherrytomater, jordbær, feta, asparges
   - sitrondressing : 1.5dl olivenolje, 1.5dl sitronsaft, 2ts dijonsennep, 2ts honning, 1 ts hvit balsamico, 0.5ss valmuefrø
