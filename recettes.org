@@ -1,75 +1,73 @@
 #+OPTIONS: toc:nil num:nil
-* Rødbetsuppe med gulrot og tomat / Borsj
-  - [[https://mathelsemiljo.com/blog/rodbetsuppe-med-gulrot-og-tomat-borsj][lenke]]
-  - rødbete, (1 stor eller 2 medium ), gulrot (3-4 stk), gul løk (1 stor ), hvitløksfedd (3-4 stk) , rødvinseddik/balsamico (1ss), harissapaste (2 ts, kan sløyfes), kraft (1,5l), hakkede tomater (1 boks), Hvite bønner (ca 230 g ferdigkokte, kan sløyfes), olivenolje, timian / persille / gressløk fersk eller tørket
-* Rødbettesalat på en seng av ruccola
-  - ruccola (1 pose), rødbetter (3stk), fetaost (1boks), pistajnøtter (1post), granateple (1)
-* Rødbette med kikerter og yoghurt
-  - spist [2025-10-13 Mon]
-* Lasagne
-  - lasagneplate, pasata, kjøttdeig, mel, melk, smør, gulrot, sellerirot
 * Couscous
 * Fiskegrateng
   - matprat [[https://www.matprat.no/oppskrifter/familien/fiskegrateng/][lenke]]
   - makaroni (75 g), smør (2 ss), hvetemel (3 ss), melk (4 dl), purre (0,25 stk, kan skøyffes), torskefilet eller annen
     kokt, hvit fisk (400 g), egg (4 stk.), revet hvitost (1 dl, kan sløyfes)
-* Salade nicoise
+* Fylte paprika
+  - s.97 i gulboka
+* Gnocchi med tomatsaus
+  - [[https://www.oppskriftskroken.no/gnocchi-med-tomatsaus/][lenke]]
+  - gnocci, olje (1 ss), løk hakket (1 stk), stangselleristilk hakket (1 stk), gulrøtter hakket (2 stk),  tomater boks hakkede (850 g),  basilikum fersk hakket (30 g), parmesan
+* Gresk salat
+  - tomat, agurk, rødløk, oliven, fetaost, frisk origano
+* Grønnsaksuppe
+  - sellirirot, gulrot, squash, kålrot
 * Gryte                                                             :kylling:
   - kylling, koriander, aspargebønner, paprika
-* Indisk inspirert potetgryte med linser                              :linse:
-  - løk (1), hvitløk (2), chili (1), poteter (500g), gulrøtter (2), linser (1boks), tomater (1boks), garam masala (1ts),
-    paprika pulver (1ts), gurkemeie (1ts), spisskummen (1ts), hakket frisk koriander eller basilikum (1dl), kaldt vann
-    (2dl)
-  - side 96 kokeboka
-* Lynrask linsegryte                                                  :linse:
-  - gul løk (1), hvitløksfedd (2), rød currypasta (2-4ts), tomater (1 boks), kokosmelk (1 boks), røde linser (2 bokser),
-    frisk spinat (2 never)
-  - topping : yogurt, chiliflak, koriander, tilbehør : nanbrød, pitabrød
-  - side 87 kokeboka
 * Gulrot og linsesuppe                                                :linse:
   - gulrøtter (4, i terninger, ca 500g), sellerirot (2dl, i terninger), løk (1), hvitløksfedd (3), ingefær (1ss),
     karripulver (1.5 ts), gurkemeie (0.5 ts), vann eller buljong (10 dl), røde linser (1 dl), lime (0.5)
   - mos med stavmikser til slutt
   - side 28
-* Sommersalat
-  - Ruccula, jordbær, rødløk, tomat
-* Kyllingsalat
-  - Salat, kyllingsfilet, avocado x2, vårløk, sukkererter 100g, tomater, valnøtter
-  - s.17 i kokeboka
-* Sommersalat
-  - miks forskjellig typer salat, avokado, vårløk, cherrytomater, jordbær, feta, asparges
-  - sitrondressing : 1.5dl olivenolje, 1.5dl sitronsaft, 2ts dijonsennep, 2ts honning, 1 ts hvit balsamico, 0.5ss valmuefrø
-* Gresk salat
-  - tomat, agurk, rødløk, oliven, fetaost, frisk origano
+* Indisk inspirert potetgryte med linser                              :linse:
+  - løk (1), hvitløk (2), chili (1), poteter (500g), gulrøtter (2), linser (1boks), tomater (1boks), garam masala (1ts),
+    paprika pulver (1ts), gurkemeie (1ts), spisskummen (1ts), hakket frisk koriander eller basilikum (1dl), kaldt vann
+    (2dl)
+  - side 96 kokeboka
 * Kikert og bulgur salat
   - bulgur (100g), kikerter (400g), tomater (2), gul paprika (1), koriander (30g), dill (20g), kjerner fra 1/2 granateple
   - dressing : olivenolje (30ml), hvitløkfedd (1), jus av én sitron
+* Kremet pasta med reker                                              :pasta:
+* Kyllingsalat
+  - Salat, kyllingsfilet, avocado x2, vårløk, sukkererter 100g, tomater, valnøtter
+  - s.17 i kokeboka
+* Lapskaus
+  - matprat [[https://www.matprat.no/oppskrifter/tradisjon/lapskaus/][lenke]]
+  - benfri høyrygg av storfekjøtt , evt. bog (800 g), vann (10 dl), kjøttbuljongterning (1 stk.), potet i terninger (800 g), gulrot i terninger (3 stk.), kålrot (150 g ), persillerot (150 g ), purre (0,5 stk.)
+* Lasagne
+  - lasagneplate, pasata, kjøttdeig, mel, melk, smør, gulrot, sellerirot
+* Lasagne med linser
+* Linsesalat
+* Luksuspastasalat
+  - s.19
+* Lynrask linsegryte                                                  :linse:
+  - gul løk (1), hvitløksfedd (2), rød currypasta (2-4ts), tomater (1 boks), kokosmelk (1 boks), røde linser (2 bokser),
+    frisk spinat (2 never)
+  - topping : yogurt, chiliflak, koriander, tilbehør : nanbrød, pitabrød
+  - side 87 kokeboka
+* One pot gnocchi bolognese
+  - kjøttdeig (400g), gulrøtter (2), selleristikker (2), løk (1), hvittløk (2 fedd), hermestisk tomater (800g), gnocchi
+    (400g), parmesan (100g), revet ost (2dl), origano, chiliflak
+* Pasta carbonara
+  - spagetti (500g), bacon (200g), egg (4), parmesan (2 ss )
+  - [[https://www.matprat.no/oppskrifter/kos/pasta-carbonara/][lenke]]
+* Potetsalat
+  - olivenolje, jus fra en sitron, hvitløk, persille, mynte, poteter, aspargesbønner, erter
 * Quiche
   - oeufs (2), creme liquide (30cl), petits pois (150g), lardon (100g)
   - faire revenir lardon, eliminer gras avec papier, fouetter oeufs avec creme liquide. 30 min 180 degrée.
   - recette maman : oeufs (5), creme fraiche (20cl), noix de muscade, maizena (1 c.a.s.) + lait, 180 degree, 3/4 h, piquer la pate
+* Rødbetsuppe med gulrot og tomat / Borsj
+  - [[https://mathelsemiljo.com/blog/rodbetsuppe-med-gulrot-og-tomat-borsj][lenke]]
+  - rødbete, (1 stor eller 2 medium ), gulrot (3-4 stk), gul løk (1 stor ), hvitløksfedd (3-4 stk) , rødvinseddik/balsamico (1ss), harissapaste (2 ts, kan sløyfes), kraft (1,5l), hakkede tomater (1 boks), Hvite bønner (ca 230 g ferdigkokte, kan sløyfes), olivenolje, timian / persille / gressløk fersk eller tørket
+* Rødbette med kikerter og yoghurt
+  - spist [2025-10-13 Mon]
+* Rødbettesalat på en seng av ruccola
+  - ruccola (1 pose), rødbetter (3stk), fetaost (1boks), pistajnøtter (1post), granateple (1)
+* Salade nicoise
 * Saumon
   - ingefær, hvitløk, sesamfrø
-* Potetsalat
-  - olivenolje, jus fra en sitron, hvitløk, persille, mynte, poteter, aspargesbønner, erter
-* Pasta carbonara
-  - spagetti (500g), bacon (200g), egg (4), parmesan (2 ss )
-  - [[https://www.matprat.no/oppskrifter/kos/pasta-carbonara/][lenke]]
-* Luksuspastasalat
-  - s.19
-* Linsesalat
-* Grønnsaksuppe
-  - sellirirot, gulrot, squash, kålrot
-* Lasagne med linser
-* Lapskaus
-  - matprat [[https://www.matprat.no/oppskrifter/tradisjon/lapskaus/][lenke]]
-  - benfri høyrygg av storfekjøtt , evt. bog (800 g), vann (10 dl), kjøttbuljongterning (1 stk.), potet i terninger (800 g), gulrot i terninger (3 stk.), kålrot (150 g ), persillerot (150 g ), purre (0,5 stk.)
-* Gnocchi med tomatsaus
-  - [[https://www.oppskriftskroken.no/gnocchi-med-tomatsaus/][lenke]]
-  - gnocci, olje (1 ss), løk hakket (1 stk), stangselleristilk hakket (1 stk), gulrøtter hakket (2 stk),  tomater boks hakkede (850 g),  basilikum fersk hakket (30 g), parmesan
-* Fylte paprika
-  - s.97 i gulboka
-* Kremet pasta med reker                                              :pasta:
-* One pot gnocchi bolognese
-  - kjøttdeig (400g), gulrøtter (2), selleristikker (2), løk (1), hvittløk (2 fedd), hermestisk tomater (800g), gnocchi
-    (400g), parmesan (100g), revet ost (2dl), origano, chiliflak
+* Sommersalat
+  - miks forskjellig typer salat, avokado, vårløk, cherrytomater, jordbær, feta, asparges
+  - sitrondressing : 1.5dl olivenolje, 1.5dl sitronsaft, 2ts dijonsennep, 2ts honning, 1 ts hvit balsamico, 0.5ss valmuefrø
