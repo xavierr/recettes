@@ -11,6 +11,10 @@
   - gnocci, olje (1 ss), løk hakket (1 stk), stangselleristilk hakket (1 stk), gulrøtter hakket (2 stk),  tomater boks hakkede (850 g),  basilikum fersk hakket (30 g), parmesan
 * Gresk salat
   - tomat, agurk, rødløk, oliven, fetaost, frisk origano
+* Grønnpai
+  - paideig, poteter (x2 bakepoteter), parmesan (100g), egg (x3), fløte (1.5dl), salt, pepper muskatnøtt.
+  - poteter i tynne skiver, kokes i 2 minuter (mer!!), overhelles med kald vann, tørk. Bland med parmesan og
+    krydder. pisk egg og fløte. 190 grader i 30 minutter.
 * Grønnsaksuppe
   - sellirirot, gulrot, squash, kålrot
 * Gryte                                                             :kylling:
@@ -25,10 +29,22 @@
     paprika pulver (1ts), gurkemeie (1ts), spisskummen (1ts), hakket frisk koriander eller basilikum (1dl), kaldt vann
     (2dl)
   - side 96 kokeboka
+* Kikerter i valnøttpesto med frisk ost
+  - kikerter (1 boks), chili (1), små søtte cherrytomater (x 5)
+  - pesto : bred bladet persille (1 stor bund), valnøtter (3 ss), parmesan (50 g), hvitløk (1 fedd), olivenolje (8 ss)
+  - Bland persille, valnøtt og parmesan til en tykk grønn pure. Tilsett olje litt etter litt. Tilsett litt vann hvis
+    pesto er for tykk.
+  - Frisk ost : frisk ost (1 dl fløte ost naturell), gresk jogurt (1 dl), [[https://fr.wikipedia.org/wiki/Ras_el-hanout][ras el hanout]] og litt olivenolje
 * Kikert og bulgur salat
   - bulgur (100g), kikerter (400g), tomater (2), gul paprika (1), koriander (30g), dill (20g), kjerner fra 1/2 granateple
   - dressing : olivenolje (30ml), hvitløkfedd (1), jus av én sitron
 * Kremet pasta med reker                                              :pasta:
+* Krydderstekte kikerter og søte rødbette på en seng av yoghurt
+  - spist [2025-10-13 Mon]
+  - rødbetter (4-5), kikerter (2 boks), olivenolje (2ss), spisekummen (2ts), paprikapuver (1ts), gresk yoghurt (300g),
+    sitron saft (0.5), chiliflak (1ts), frisk mynte
+  - stek kikertene i litt olje til de begynner å bli sprø. Bland yoghurt med sitronsaft og salt. Yoghurt i bynnen, så
+    rødbetter, så kikkerter, så mynte + chiliflak
 * Kyllingsalat
   - Salat, kyllingsfilet, avocado x2, vårløk, sukkererter 100g, tomater, valnøtter
   - s.17 i kokeboka
@@ -54,20 +70,21 @@
   - [[https://www.matprat.no/oppskrifter/kos/pasta-carbonara/][lenke]]
 * Potetsalat
   - olivenolje, jus fra en sitron, hvitløk, persille, mynte, poteter, aspargesbønner, erter
+* Quiche
+  - oeufs (2), creme liquide (30cl), petits pois (150g), lardon (100g)
+  - faire revenir lardon, eliminer gras avec papier, fouetter oeufs avec creme liquide. 30 min 180 degrée.
+  - recette maman : oeufs (5), creme fraiche (20cl), noix de muscade, maizena (1 c.a.s.) + lait, 180 degree, 3/4 h, piquer la pate
 * Ramensuppe
   - olivenolje (3ss), hvitløk (3 fedd), ingefær (20g), wasabi (2ts), purre (1/2), vann (1l), grønnsakbuljong (2
     terninger), soyasaus (2ss), limesaft (2ss), nakkekoteletter (2), kokte egg (4), eggenudler (1pk), kidneybønner
     (1pk), koriander (til servering)
   - lag buljong, stek kotelleter, kok eggene. Hell buljong over nudler til der er myke. 
-* Quiche
-  - oeufs (2), creme liquide (30cl), petits pois (150g), lardon (100g)
-  - faire revenir lardon, eliminer gras avec papier, fouetter oeufs avec creme liquide. 30 min 180 degrée.
-  - recette maman : oeufs (5), creme fraiche (20cl), noix de muscade, maizena (1 c.a.s.) + lait, 180 degree, 3/4 h, piquer la pate
+* Reinsdyr
+  - reinsdyrskav (400g), aromasopp (x 6-8), gulrott (x 3), sellerirot (x 0.5), knyste einebær (x 9), timian, creme
+    fraich (0.5 boks), matfløte (0.5bok), sjalottløk (x 1)
 * Rødbetsuppe med gulrot og tomat / Borsj
   - [[https://mathelsemiljo.com/blog/rodbetsuppe-med-gulrot-og-tomat-borsj][lenke]]
   - rødbete, (1 stor eller 2 medium ), gulrot (3-4 stk), gul løk (1 stor ), hvitløksfedd (3-4 stk) , rødvinseddik/balsamico (1ss), harissapaste (2 ts, kan sløyfes), kraft (1,5l), hakkede tomater (1 boks), Hvite bønner (ca 230 g ferdigkokte, kan sløyfes), olivenolje, timian / persille / gressløk fersk eller tørket
-* Rødbette med kikerter og yoghurt
-  - spist [2025-10-13 Mon]
 * Rødbettesalat på en seng av ruccola
   - ruccola (1 pose), rødbetter (3stk), fetaost (1boks), pistajnøtter (1post), granateple (1)
 * Salade nicoise
