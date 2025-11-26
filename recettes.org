@@ -55,7 +55,8 @@
   - s.17 i kokeboka
 * Lapskaus
   - matprat [[https://www.matprat.no/oppskrifter/tradisjon/lapskaus/][lenke]]
-  - benfri høyrygg av storfekjøtt , evt. bog (800 g), vann (10 dl), kjøttbuljongterning (1 stk.), potet i terninger (800 g), gulrot i terninger (3 stk.), kålrot (150 g ), persillerot (150 g ), purre (0,5 stk.)
+  - benfri høyrygg av storfekjøtt , evt. bog (800 g), vann (10 dl), kjøttbuljongterning (1 stk.), potet i terninger (800
+    g), gulrot i terninger (3 stk.), kålrot (150 g ), persillerot (150 g ), purre (0,5 stk.)
 * Lasagne
   - lasagneplate, pasata, kjøttdeig, mel, melk, smør, gulrot, sellerirot
 * Lasagne med linser
